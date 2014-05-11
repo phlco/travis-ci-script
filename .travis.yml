@@ -1,6 +1,6 @@
 language:
   - objective-c
 script:
-  - exit 1
+  - "exit 1"
 notifications:
   webhooks: http://tranquil-headland-5267.herokuapp.com/notifications/travis
